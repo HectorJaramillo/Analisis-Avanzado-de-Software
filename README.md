@@ -1,3 +1,12 @@
+# ***Acerca de Mi***
+
+## ***Nombre:*** Hector Armando Jaramillo Regino
+
+## ***Correo:*** hector.jaramillo17@tectijuana.edu.mx
+
+## ***Descripcion:*** Actualmente estudio Ing. en Sistemas en el Tecnologico Nacional de Mexico campus Tijuana.
+---
+
 # :blue_book: Analisis Avanzado de Software
 
 ## :pencil2: Actividades
