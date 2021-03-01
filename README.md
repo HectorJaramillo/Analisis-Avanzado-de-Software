@@ -13,10 +13,10 @@
 
 **Unidad 1**
 
-⌛️ [C0.1 Integrar equipos de trabajo](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C0.1_HectorJaramillo_DreamTeam.md)
+⌛️ [C0.1 Integrar equipos de trabajo](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C0.1_Integrar%20Equipos_HectorJaramillo.md)
 
 ⌛️ [C0.2 Tipo de sistema de información
-](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C0.1_HectorJaramillo_DreamTeam.md)
+](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C0.2_Tipo%20de%20sistema%20de%20informaci%C3%B3n_HectorJaramillo.md)
 
 
 
