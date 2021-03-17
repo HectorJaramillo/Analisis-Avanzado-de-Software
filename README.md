@@ -20,7 +20,7 @@
 
 ⌛️ [C0.3 Diagrama de flujo del proceso](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C0.3_Diagrama%20de%20flujo%20del%20proceso_HectorJaramillo.md)
 
-
+[A0.1_Recopilación de datos por medio de la entrevista_HectorJaramillo.md](/Blog/A0.1_Recopilación%20de%20datos%20por%20medio%20de%20la%20entrevista_HectorJaramillo.md)
 
 **Unidad 2**
 
