@@ -24,9 +24,10 @@
 
 :trophy: [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C1.2_Elaboracion%20del%20acta%20constitutiva%20del%20proyecto_HectorJaramillo.md)
 
+:trophy: [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C1.3_Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio_HectorJaramillo.md)
+
 
 💥[A0.1_Recopilación de datos por medio de la entrevista_HectorJaramillo.md](/Blog/A0.1_Recopilación%20de%20datos%20por%20medio%20de%20la%20entrevista_HectorJaramillo.md)
-
 
 
 **Unidad 2**
