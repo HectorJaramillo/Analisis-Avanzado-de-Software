@@ -35,6 +35,8 @@
 
 :trophy: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C1.4_Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20de%20comportamiento_HectorJaramillo.md)
 
+:trophy: [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C1.5_Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_HectorJaramillo.md)
+
 :bomb: [A1.0 Consolidacion del acta constitutiva](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Consolidacion%20del%20acta%20constitutiva_HectorJaramillo.md)
 
 
