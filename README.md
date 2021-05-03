@@ -39,6 +39,7 @@
 
 :bomb: [A1.0 Consolidacion del acta constitutiva](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Consolidacion%20del%20acta%20constitutiva_HectorJaramillo.md)
 
+:bomb: [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A1.1%20%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20UML_HectorJaramillo.md?fbclid=IwAR1fj69WluEC9uG0PpXApGNY_70sF7dyH7CHABqfR1Y_0CKJGpkqZhednGk)
 
 
 **Unidad 3**
