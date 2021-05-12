@@ -46,5 +46,7 @@
 
 :trophy: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/C2.1_%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_HectorJaramillo.md)
 
+:bomb:[A2.1 Especificación de requisitos y documentación](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A2.1_Especificaci%C3%B3n%20de%20requisitos%20y%20documentaci%C3%B3n_HectorJaramillo.md)
+
 **Unidad 4**
 
