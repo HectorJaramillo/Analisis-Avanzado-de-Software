@@ -48,5 +48,7 @@
 
 :bomb:[A2.1 Especificación de requisitos y documentación](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A2.1_Especificaci%C3%B3n%20de%20requisitos%20y%20documentaci%C3%B3n_HectorJaramillo.md)
 
+:bomb:[A2.2 Diseño de la arquitectura 4+1](https://www.soy502.com/sites/default/files/styles/full_node/public/2018/Mar/08/screen_shot_2018-03-08_at_7.31.17_am.png)
+
 **Unidad 4**
 
