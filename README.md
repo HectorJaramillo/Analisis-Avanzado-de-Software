@@ -50,5 +50,7 @@
 
 :bomb:[A2.2 Diseño de la arquitectura 4+1](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A2.2_Dise%C3%B1o%20de%20la%20arquitectura%204%2B1_HectorJaramillo.md)
 
+:bomb:  [A2.3 Patrones de arquitectura de software](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/Blog/A2.3_Patrones%20de%20arquitectura%20de%20software_HectorJaramillo.md)
+
 **Unidad 4**
 
