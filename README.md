@@ -59,3 +59,5 @@
 :bomb:[A3.2 Fase inicio: Artefactos](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.2_Fase%20Inicial%20Artefactos_HectorJaramillo.pdf)
 
 :bomb:[ A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/HectorJaramillo/Analisis-Avanzado-de-Software/blob/main/documentos/A3.3_Arquitectura%20de%20software%20a%20traves%20del%20Modelo%20C4_HectorJaramillo.pdf)
+
+:bomb:[Fase planificacion y estimacion: Artefactos](documentos/A3.4%20_Fase%20planificacion%20y%20estimacion%20Artefactos_HectorJaramillo.pdf)
